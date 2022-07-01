@@ -1,0 +1,22 @@
+{
+  "name": "nft-minting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Cognison - dev@cognison.com",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "2.4.0"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "2.2",
+    "solc": "^0.5.2",
+    "solc-js": "^0.5.2",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}

@@ -1,0 +1,4 @@
+node_modules
+.mnemonic
+eth-contracts/build
+package-lock.json
